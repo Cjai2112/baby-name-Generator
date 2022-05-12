@@ -1,0 +1,7 @@
+print("Welcome to my baby name generator Find a simple and uniqe name here?:\n")
+
+flower = input("What is the four letters of your favorite flower?:\n")
+
+grandparent = input("What is the last two letters of your grandparents name?:\n")
+
+print("I have the perfect baby name for you " + flower +grandparent)
